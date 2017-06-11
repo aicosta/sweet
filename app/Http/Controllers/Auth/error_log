@@ -1,0 +1,4 @@
+[16-May-2017 05:40:18 UTC] PHP Fatal error:  Class 'Sweet\Http\Controllers\Controller' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Controllers/Auth/AuthController.php on line 11
+[16-May-2017 22:11:10 UTC] PHP Fatal error:  Class 'Sweet\Http\Controllers\Controller' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Controllers/Auth/PasswordController.php on line 8
+[23-May-2017 21:45:46 UTC] PHP Fatal error:  Class 'Sweet\Http\Controllers\Controller' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Controllers/Auth/AuthController.php on line 11
+[24-May-2017 21:19:06 UTC] PHP Fatal error:  Class 'Sweet\Http\Controllers\Controller' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Controllers/Auth/PasswordController.php on line 8

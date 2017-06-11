@@ -1,0 +1,6 @@
+[10-May-2017 02:00:27 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Console/Commands/Inspire.php on line 8
+[14-May-2017 04:38:25 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Console/Commands/CallRoute.php on line 7
+[18-May-2017 04:25:49 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Console/Commands/Inspire.php on line 8
+[22-May-2017 10:35:01 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Console/Commands/CallRoute.php on line 7
+[23-May-2017 18:08:44 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Console/Commands/CallRoute.php on line 7
+[26-May-2017 07:43:45 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Console/Commands/Inspire.php on line 8

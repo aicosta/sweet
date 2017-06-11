@@ -1,0 +1,6 @@
+[14-May-2017 02:47:14 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[14-May-2017 05:34:46 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Middleware/EncryptCookies.php on line 7
+[21-May-2017 07:41:53 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-May-2017 21:31:31 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Middleware/EncryptCookies.php on line 7
+[23-May-2017 08:58:57 UTC] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Middleware/EncryptCookies.php on line 7
+[28-May-2017 08:57:45 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Middleware/VerifyCsrfToken.php on line 7

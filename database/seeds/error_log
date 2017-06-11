@@ -1,0 +1,3 @@
+[03-May-2017 09:50:45 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/fullhubcom/public_html/fornecedores/sweet/database/seeds/DatabaseSeeder.php on line 5
+[11-May-2017 09:14:25 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/fullhubcom/public_html/fornecedores/sweet/database/seeds/DatabaseSeeder.php on line 5
+[19-May-2017 22:43:13 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/fullhubcom/public_html/fornecedores/sweet/database/seeds/DatabaseSeeder.php on line 5

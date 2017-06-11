@@ -1,0 +1,12 @@
+[02-May-2017 05:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/fullhubcom/public_html/fornecedores/sweet/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/database/factories/ModelFactory.php on line 14
+[10-May-2017 01:04:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/fullhubcom/public_html/fornecedores/sweet/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/database/factories/ModelFactory.php on line 14
+[17-May-2017 16:34:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/fullhubcom/public_html/fornecedores/sweet/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/database/factories/ModelFactory.php on line 14

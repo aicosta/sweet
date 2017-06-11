@@ -1,0 +1,32 @@
+[20-Mar-2017 05:16:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php on line 14
+[21-Mar-2017 10:15:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php on line 14
+[24-Apr-2017 18:14:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php on line 14
+[03-May-2017 02:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php on line 14
+[11-May-2017 03:16:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php on line 14
+[24-May-2017 23:24:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php on line 14
+[28-May-2017 05:02:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php on line 14
+[30-May-2017 17:40:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/bootstrap/app.php on line 14

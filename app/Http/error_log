@@ -1,0 +1,25 @@
+[07-Apr-2017 00:34:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/routes.php on line 14
+[07-Apr-2017 00:52:09 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Kernel.php on line 7
+[07-Apr-2017 07:29:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/routes.php on line 14
+[07-Apr-2017 09:40:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/routes.php on line 14
+[07-Apr-2017 11:02:40 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Kernel.php on line 7
+[02-May-2017 03:02:41 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Kernel.php on line 7
+[02-May-2017 16:27:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/routes.php on line 14
+[10-May-2017 08:21:46 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Kernel.php on line 7
+[18-May-2017 11:39:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/Kernel.php on line 7
+[27-May-2017 11:19:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/fullhubcom/public_html/fornecedores/sweet/app/Http/routes.php on line 14
